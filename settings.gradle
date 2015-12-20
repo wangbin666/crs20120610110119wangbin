@@ -1,0 +1,1 @@
+include ':app', ':wangbin2', ':wangbin3', ':wangbin4', ':wangbin5', ':wangbin6.7', ':wangbin8', ':wangbin9', ':wangbin10'
